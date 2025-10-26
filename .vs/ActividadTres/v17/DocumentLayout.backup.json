@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\practica3unidad3-4312\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F0B65A-D933-40D6-A699-B0006143C1B5}|ActividadTres\\ActividadTres.csproj|c:\\users\\pc\\documents\\github\\practica3unidad3-4312\\actividadtres\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F0B65A-D933-40D6-A699-B0006143C1B5}|ActividadTres\\ActividadTres.csproj|solutionrelative:actividadtres\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F0B65A-D933-40D6-A699-B0006143C1B5}|ActividadTres\\ActividadTres.csproj|C:\\Users\\PC\\Documents\\GitHub\\practica3unidad3-4312\\actividadtres\\menucostal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7F0B65A-D933-40D6-A699-B0006143C1B5}|ActividadTres\\ActividadTres.csproj|solutionrelative:actividadtres\\menucostal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\practica3unidad3-4312\\ActividadTres\\Clientes.cs",
+              "RelativeDocumentMoniker": "ActividadTres\\Clientes.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\practica3unidad3-4312\\ActividadTres\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadTres\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T03:28:07.487Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuCostal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\practica3unidad3-4312\\ActividadTres\\MenuCostal.cs",
+              "RelativeDocumentMoniker": "ActividadTres\\MenuCostal.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\practica3unidad3-4312\\ActividadTres\\MenuCostal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadTres\\MenuCostal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T03:25:57.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
